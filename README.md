@@ -8,7 +8,7 @@
  - Tahira - 
  - Elena - ElenaZelenina
  - Kendall - KendallCheek was here 9:35 pm 1/19/20
- - Mariia - MariiaPa
+ - Mariia - MariiaPa - Mariia Pavlenko was here 9:40 pm 1/19/2020
 
 You'll need to create your own repository (i.e. web250-LastName) and invite us all to collaborate. Create a similar readme document that we will all "visit" and edit like this one. 
 
