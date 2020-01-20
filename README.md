@@ -6,7 +6,7 @@
 
  Need to invite: (once you're in, edit this document to say you were here)
  - Tahira - 
- - Elena - ElenaZelenina
+ - Elena - ElenaZelenina was here 9:50 pm 1/19/20
  - Kendall - KendallCheek was here 9:35 pm 1/19/20
  - Mariia - MariiaPa - Mariia Pavlenko was here 9:40 pm 1/19/2020
 
