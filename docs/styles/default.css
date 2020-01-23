@@ -1,0 +1,38 @@
+body
+{
+	font-family: tahoma;
+	color: red;
+	background-color: silver;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+header, footer
+{
+	text-align: center;
+	color: green;
+	font-weight: bold;
+}
+
+h1, h2, h3
+{
+	font-family: Times, serif;
+	text-align: center;
+}
+
+figure
+{
+	text-align: center;
+}
+
+figcaption
+{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.attribute
+{
+	font-weight: bold;
+}
+
