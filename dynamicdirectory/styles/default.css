@@ -1,7 +1,7 @@
 body
 {
 	font-family: tahoma;
-	color: teal;
+	color: red;
 	background-color: silver;
 	margin-left: 200px;
 	margin-right: 200px;
@@ -10,7 +10,7 @@ body
 header, footer
 {
 	text-align: center;
-	color: orange;
+	color: green;
 	font-weight: bold;
 }
 
