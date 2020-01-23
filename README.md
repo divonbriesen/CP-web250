@@ -3,10 +3,10 @@
  for web 250 class
 1. Attendance/Connection
    - [D.I. von Briesen](https://github.com/divonbriesen) - [Class Repo](https://github.com/divonbriesen/CP_WEB250_SP2020) - D.I. was here 9:19 pm 1/29/2010 
-   - [Tahira](https://github.com/tfarrer0/) - [Class Repo](https://github.com/tfarrer0/WEB250_yourlastnameorwhatevergoeshere)
-   - [Elena](https://github.com/ElenaZelenina/) - [Class Repo](https://github.com/ElenaZelenina/WEB250_yourlastnameorwhatevergoeshere) ElenaZelenina was here 9:50 pm 1/19/20
-   - [Kendall](https://github.com/KendallCheek/) - [Class Repo](https://github.com/KendallCheek/WEB250_yourlastnameorwhatevergoeshere) KendallCheek was here 9:35 pm 1/19/20
-   - [Mariia](https://github.com/MariiaPa/) - [Class Repo](https://github.com/MariiaPa/WEB250_yourlastnameorwhatevergoeshere) - Mariia Pavlenko was here 9:40 pm 1/19/2020
+   - [Tahira](https://github.com/tfarrer0/) - [Class Repo](https://github.com/tfarrer0/WEB250-Farrer-Bradley) -
+   - [Elena](https://github.com/ElenaZelenina/) - [Class Repo](https://github.com/ElenaZelenina/web250-Zelenina) - ElenaZelenina was here 9:50 pm 1/19/20
+   - [Kendall](https://github.com/KendallCheek/) - [Class Repo](https://github.com/KendallCheek/web250_kendallcheek) - KendallCheek was here 9:35 pm 1/19/20
+   - [Mariia](https://github.com/MariiaPa/) - [Class Repo](https://github.com/MariiaPa/web250-pavlenko) - Mariia Pavlenko was here 9:40 pm 1/19/2020
  
 1. Get this introduction/participants application up and running- copied to each person's repository and deployed to elocker on a regular basis as a way of learning everything
    1. SETUP - get an introduction up on a site with php nicely
