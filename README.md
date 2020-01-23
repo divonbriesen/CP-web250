@@ -1,6 +1,13 @@
 # web250
 ## For a full-class collaborative project that connects a dynamic site to a database and includes logins/user management.
  for web 250 class
+1. Attendance/Connection
+   - [D.I. von Briesen](https://github.com/divonbriesen) - [Class Repo](https://github.com/divonbriesen/CP_WEB250_SP2020) - D.I. was here 9:19 pm 1/29/2010 
+   - [Tahira](https://github.com/tfarrer0/) - [Class Repo](https://github.com/tfarrer0/WEB250_yourlastnameorwhatevergoeshere)
+   - [Elena](https://github.com/ElenaZelenina/) - [Class Repo](https://github.com/ElenaZelenina/WEB250_yourlastnameorwhatevergoeshere) ElenaZelenina was here 9:50 pm 1/19/20
+   - [Kendall](https://github.com/KendallCheek/) - [Class Repo](https://github.com/KendallCheek/WEB250_yourlastnameorwhatevergoeshere) KendallCheek was here 9:35 pm 1/19/20
+   - [Mariia](https://github.com/MariiaPa/) - [Class Repo](https://github.com/MariiaPa/WEB250_yourlastnameorwhatevergoeshere) - Mariia Pavlenko was here 9:40 pm 1/19/2020
+ 
 1. Get this introduction/participants application up and running- copied to each person's repository and deployed to elocker on a regular basis as a way of learning everything
    1. SETUP - get an introduction up on a site with php nicely
       1. include all standard folders (images, styles, scripts)
@@ -30,10 +37,3 @@
    1. Must use a database with at least a many to many relationship (which means at least 3 tables) for the main functionality
    1. Styled and branded and validated and pretty :P
 1. Possibly some kind of WordPress work, as that makes up a lot of the database driven stuff out there. 
-
- - D.I. von Briesen https://github.com/divonbriesen was here 9:19 pm 1/29/2010 - This repository is: https://github.com/divonbriesen/CP_WEB250_SP2020
- - Tahira - 
- - Elena - ElenaZelenina was here 9:50 pm 1/19/20
- - Kendall - KendallCheek was here 9:35 pm 1/19/20
- - Mariia - MariiaPa - Mariia Pavlenko was here 9:40 pm 1/19/2020
-c
