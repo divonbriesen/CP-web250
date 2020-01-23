@@ -8,6 +8,10 @@
    - [Kendall](https://github.com/KendallCheek/) - [Class Repo](https://github.com/KendallCheek/web250_kendallcheek) - KendallCheek was here 9:35 pm 1/19/20
    - [Mariia](https://github.com/MariiaPa/) - [Class Repo](https://github.com/MariiaPa/web250-pavlenko) - Mariia Pavlenko was here 9:40 pm 1/19/2020
  
+1. There are for now two important directories
+  1. docs - this is a web browsable (using github pages) folder for static pages (or maybe using JS).
+  1. dynamicdirectory - this is for the project that'll use php - which github can't run, so it's just for the repo.
+  1. in order to parse out versions more clearly, we may have more (copy and update rather than just update)
 1. Get this introduction/participants application up and running- copied to each person's repository and deployed to elocker on a regular basis as a way of learning everything
    1. SETUP - get an introduction up on a site with php nicely
       1. include all standard folders (images, styles, scripts)
