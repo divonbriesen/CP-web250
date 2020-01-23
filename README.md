@@ -31,7 +31,7 @@
    1. Styled and branded and validated and pretty :P
 1. Possibly some kind of WordPress work, as that makes up a lot of the database driven stuff out there. 
 
- - D.I. von Briesen was here 9:19 pm 1/29/2010 - This repository is: https://github.com/divonbriesen/CP_WEB250_SP2020
+ - D.I. von Briesen https://github.com/divonbriesen was here 9:19 pm 1/29/2010 - This repository is: https://github.com/divonbriesen/CP_WEB250_SP2020
  - Tahira - 
  - Elena - ElenaZelenina was here 9:50 pm 1/19/20
  - Kendall - KendallCheek was here 9:35 pm 1/19/20
