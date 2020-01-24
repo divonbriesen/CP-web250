@@ -1,7 +1,7 @@
 body
 {
 	font-family: tahoma;
-	color: red;
+	color:teal;
 	background-color: silver;
 	margin-left: 200px;
 	margin-right: 200px;
@@ -10,14 +10,27 @@ body
 header, footer
 {
 	text-align: center;
-	color: green;
+	color: slateblue;
 	font-weight: bold;
 }
 
 h1, h2, h3
 {
-	font-family: Times, serif;
+	color: darkslategrey;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+	color:violet;
+	font-weight: bold;
+}
+
+a:hover
+{
+	text-decoration: overline underline;
 }
 
 figure
@@ -34,5 +47,12 @@ figcaption
 .attribute
 {
 	font-weight: bold;
+	color: darkslategray;
+}
+
+nav
+{
+	color: blueviolet;
+	text-align: center;
 }
 
