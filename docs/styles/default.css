@@ -1,31 +1,51 @@
+
+/* got this from coolors.co - please improve!
+ https://coolors.co/b5d6b2-53131e-5a464c-fffacc-ffefbd
+*/
 body
 {
 	font-family: tahoma;
-	color:teal;
-	background-color: silver;
-	margin-left: 200px;
-	margin-right: 200px;
+	color: #ffefbd ;
+	background-color: #5a464c;
+	margin-left: 75px;
+	margin-right: 75px;
 }
 
+.usersection
+{
+	background-color: #53131e;
+	padding: 25px;
+	margin: 25px;
+}
+
+.category
+{
+	font-weight: bold;
+}
 header, footer
 {
 	text-align: center;
-	color: slateblue;
+	color: ;
 	font-weight: bold;
 }
 
 h1, h2, h3
 {
-	color: darkslategrey;
+	color: FFefbd;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	text-align: center;
+}
+
+h3
+{
+	font-size: 200%;
+	line-height: 0px;
 }
 
 a
 {
 	text-decoration: none;
-	color: blueviolet;
-	font-weight: bold;
+	color: #b5d6b2;
 }
 
 a:hover
@@ -41,7 +61,6 @@ figure
 figcaption
 {
 	font-style: italic;
-	font-weight: bold;
 }
 
 .attribute
@@ -52,7 +71,6 @@ figcaption
 
 nav
 {
-	color:violet;
 	text-align: center;
 }
 
