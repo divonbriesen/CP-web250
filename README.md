@@ -3,7 +3,7 @@
  for web 250 class
 1. Attendance/Connection
    - [D.I. von Briesen](https://github.com/divonbriesen) - [Class Repo](https://github.com/divonbriesen/CP_WEB250_SP2020) - D.I. was here 9:19 pm 1/29/2010 
-   - [Tahira](https://github.com/tfarrer0/) - [Class Repo](https://github.com/tfarrer0/WEB250-Farrer-Bradley) -
+   - [Tahirah](https://github.com/tfarrer0/) - [Class Repo](https://github.com/tfarrer0/WEB250-Farrer-Bradley) - tfarrer0 was here 3:05PM 4/1/2020
    - [Elena](https://github.com/ElenaZelenina/) - [Class Repo](https://github.com/ElenaZelenina/web250-Zelenina) - ElenaZelenina was here 9:50 pm 1/19/20
    - [Kendall](https://github.com/KendallCheek/) - [Class Repo](https://github.com/KendallCheek/web250_kendallcheek) - KendallCheek was here 9:35 pm 1/19/20
    - [Mariia](https://github.com/MariiaPa/) - [Class Repo](https://github.com/MariiaPa/web250-pavlenko) - Mariia Pavlenko was here 9:40 pm 1/19/2020
